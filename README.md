@@ -3,7 +3,9 @@ Tensor Flow javascript example for sentiment analysis
 
 Created following tfjs examples
 
-for running this example
+To run this example, do
 
+```sh
 node install
 node sentiment.js
+```
