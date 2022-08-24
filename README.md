@@ -6,6 +6,6 @@ Created following tfjs examples
 To run this example, do
 
 ```sh
-node install
+npm install
 node sentiment.js
 ```
